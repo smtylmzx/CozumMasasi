@@ -3,4 +3,4 @@
 - StackOverFlow benzeri bireysel veya şirket içi hata kayıtlarının ve çözümlerinin tutulduğu kapalı proje.
 - Closed project that keeps individual and internal error records and solutions like StackOverFlow.
 
-![projeimage](https://raw.githubusercontent.com/smtylmzx/CozumMasasi/master/screenshot-localhost_8080-2020.04.27-19_30_03.png)
+![projeimage](https://raw.githubusercontent.com/smtylmzx/CozumMasasi/master/proje_image.png)
